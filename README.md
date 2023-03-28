@@ -1,7 +1,6 @@
 # mock-server-api
 
-JSON Server API
-Api for Rolling Scopes School task "React.API".
+JSON Server API for Rolling Scopes School task "React.API".
 
 ## Setup and Running
 
