@@ -12,6 +12,9 @@ const server = jsonServer.create();
 const router = jsonServer.router(db);
 server.use(jsonServer.defaults({ static: __dirname + '/public' }));
 
+// Set readOnly
+server.use(jsonServer.defaults({ readOnly: true }));
+
 // Avoid CORS issue
 server.use(function (req, res, next) {
   res.header("Access-Control-Allow-Origin", "*");
