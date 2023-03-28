@@ -1,20 +1,30 @@
+// JSON Server module
 const jsonServer = require('json-server');
-const catalog = require('./data/catalog.json');
+const catalog = require('./db/catalog.json');
+
+const PORT = 3000;
 
 const db = {
   catalog: catalog
 };
 
 const server = jsonServer.create();
-
 const router = jsonServer.router(db);
-
-const PORT = 3000;
-
 server.use(jsonServer.defaults());
+
+// Add this before server.use(router)
+server.use(
+  // Add custom route here if needed
+  jsonServer.rewriter({
+    "/*": "/$1",
+  })
+);
 
 server.use(router);
 
 server.listen(PORT, () => {
   console.log('Server is running on port', PORT);
 });
+
+// Export the Server API
+module.exports = server;
