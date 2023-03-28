@@ -1,15 +1,20 @@
 {
   "version": 2,
-  "functions": {
-    "api/server.js": {
-      "memory": 1024,
-      "includeFiles": "db/catalog.json"
-    }
-  },
-  "rewrites": [
+  "builds": [
     {
-      "source": "/(.*)",
-      "destination": "server.js"
+      "src": "server.js",
+      "use": "@vercel/node",
+      "config": {
+        "includeFiles": [
+          "db/catalog.json"
+        ]
+      }
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "server.js"
     }
   ]
 }
