@@ -6,7 +6,8 @@
     "image": "assets/images/633c61fe1238b459490255.webp",
     "views": 400,
     "likes": 279,
-    "addedAt": "20/05/2022"
+    "addedAt": "20/05/2022",
+    "description": "Not an official race or competition, but an ordinary guy, achieving the extraordinary by swimming 3.9 km in ice water, biking 180 km and running 42.2 km in ice and snow on Antarctica’s glacial surface in February 2020. The event takes place during a 33-day expedition by boat from Ushuaia, Argentina, across the Drake Passage to Antarctica. All safety precautions are taken and the team includes some of the most experienced people in the world, when it comes to expeditions in Antarctica."
   },
   {
     "id": 2,
@@ -15,7 +16,8 @@
     "image": "assets/images/628f96ff8d371127321482.webp",
     "views": 866,
     "likes": 639,
-    "addedAt": "03/06/2020"
+    "addedAt": "03/06/2020",
+    "description": "My name is Kolapo. I am a lawyer, UX designer and business development professional; specializing in brand, experiential and music marketing, with over a decade of experience. I currently work at Apple as Business & Strategic Manager, Africa; crafting and executing strategies that empower creators and artists to reach short-term and long-term goals. I am passionate about improving the entertainment landscape in Africa by empowering the youth culture. "
   },
   {
     "id": 3,
@@ -24,7 +26,8 @@
     "image": "assets/images/6261139108af5965669216.webp",
     "views": 971,
     "likes": 959,
-    "addedAt": "17/06/2021"
+    "addedAt": "17/06/2021",
+    "description": "Tens of millions of people look for design inspiration and feedback on Dribbble. We help players like you share small screenshots (shots) to show off your current projects, boost your portfolio, and love what you do—no matter what kind of creative professional you are. Founded in 2009, we are a bootstrapped and profitable company helping design talent share, grow, and get hired by over 40,000 of today’s most innovative brands around the world."
   },
   {
     "id": 4,
@@ -33,7 +36,8 @@
     "image": "assets/images/620f8c369e601218252540.webp",
     "views": 775,
     "likes": 84,
-    "addedAt": "17/11/2019"
+    "addedAt": "17/11/2019",
+    "description": "PAUL D. STEWART is a freelance Lighting Cameraman and filmmaker specializing in science and wildlife. Awards include three Primetime Cinematography Emmys, three Camerawork BAFTAs, a BAFTA for must see TV moment of the year, and three Guild Of Television Cameramen Awards for Excellence as well as a “Grand Teton Best of Festival” for the BBC Series Galapagos (proposed and filmed as principle camera with Richard Wollocombe)."
   },
   {
     "id": 5,
@@ -42,25 +46,28 @@
     "image": "assets/images/61f4149ebcbb4984172772.webp",
     "views": 982,
     "likes": 593,
-    "addedAt": "28/12/2019"
+    "addedAt": "28/12/2019",
+    "description": "We are forming a culture of creative thinkers who are passionate about building brand experiences that people love. Started in 2013, we are a Bandra born agency taking on global markets. Here to do the right thing in communication with a purpose to create a positive change. Currently, we scale businesses with ideas for content, technology, design & data. While the best is yet to come, we continue #SimplifyingTheWeb"
   },
   {
     "id": 6,
-    "title": "AXEPT – Karriereseite",
+    "title": "AXEPT - Karriereseite",
     "owner": "business4youag",
     "image": "assets/images/61eab00aa39cb495655547.webp",
     "views": 657,
     "likes": 158,
-    "addedAt": "21/05/2022"
+    "addedAt": "21/05/2022",
+    "description": "Als innovatives Schweizer Unternehmen realisiert Axept betriebswirtschaftliche Software-Lösungen mit Abacus Business Software, BI-Software von Qlik und PROVIS für namhafte KMU und NPO."
   },
   {
     "id": 7,
-    "title": "Halborn – WordPress Theme",
+    "title": "Halborn - WordPress Theme",
     "owner": "handiwork-nyc",
     "image": "assets/images/61c2edebed188745960916.webp",
     "views": 699,
     "likes": 364,
-    "addedAt": "24/01/2020"
+    "addedAt": "24/01/2020",
+    "description": "Custom WordPress theme + animated page transitions with swup.js and anime.js for a globally distributed Blockchain security company. We are a small, but agileteam of thinkers andcreators; a vibrant blendof specialized talentsconnected by ourshared sense of style,our far-reaching industryknowledge, and our unceasingpursuit of innovation"
   },
   {
     "id": 8,
@@ -69,7 +76,8 @@
     "image": "assets/images/618bec7508a2d958343105.webp",
     "views": 425,
     "likes": 309,
-    "addedAt": "27/05/2022"
+    "addedAt": "27/05/2022",
+    "description": "The #1 comedy club. Recommended by Time Out and DesignMyNight, we provide an outstanding comedy club experience. Since 2004, our comedy clubs have been the home of unapologetic and unfiltered stand up comedy. We offer a refreshing escape, in a world that seems scared to offend. Renowned as a brilliant night out, our comedians are sometimes outrageous, but always hilarious."
   },
   {
     "id": 9,
@@ -78,7 +86,8 @@
     "image": "assets/images/6164bedc0eb86050950728.webp",
     "views": 845,
     "likes": 269,
-    "addedAt": "18/04/2019"
+    "addedAt": "18/04/2019",
+    "description": "We took an industry-leader who had a terrible web presence and turned them into an internet powerhouse with beautiful product photography showcased on a clean and vibrant website. Managing Partner of Resound Creative—a brand strategy firm in Tempe, AZ."
   },
   {
     "id": 10,
@@ -87,7 +96,8 @@
     "image": "assets/images/6165f2ad54d70845305055.webp",
     "views": 513,
     "likes": 475,
-    "addedAt": "21/10/2021"
+    "addedAt": "21/10/2021",
+    "description": "A distinct site for a company revolutionizing edge computing. Uber-Swiss clean. Elegant writing. Descriptive illustrations. With a homepage video featuring music from artist Com Truise. We are an award-winning creative agency focused on branding, messaging & design. Doing the work we love, with people we love, for clients we love."
   },
   {
     "id": 11,
@@ -96,7 +106,8 @@
     "image": "assets/images/615dade65349d414587492.webp",
     "views": 998,
     "likes": 830,
-    "addedAt": "10/04/2020"
+    "addedAt": "10/04/2020",
+    "description": "hantha is a full service digital agency based in Sarnthein, Italy and specialized in web design and web development. "
   },
   {
     "id": 12,
@@ -105,7 +116,8 @@
     "image": "assets/images/614049bd78eb5436791941.webp",
     "views": 780,
     "likes": 777,
-    "addedAt": "28/12/2022"
+    "addedAt": "28/12/2022",
+    "description": "A joint graduation exhibition of paintings and sculptures by Tama Art University, Joshibi University of Art and Design, Tokyo Zokei University, Nihon University College of Art, and Musashino Art University."
   },
   {
     "id": 13,
@@ -114,7 +126,8 @@
     "image": "assets/images/613bff2215e80747942522.webp",
     "views": 830,
     "likes": 571,
-    "addedAt": "10/12/2021"
+    "addedAt": "10/12/2021",
+    "description": "We invited Albertans to join Nathan Fillion for a virtual walk in the woods, where they learned about the forest lifecycle and how the forest industry stewards the forest at each stage. If trees could talk, they’d sound like...Nathan Fillion? At every stage of their lifecycle, Alberta forests help people, plants and animals. Take a virtual walk in the woods to learn more, with Alberta-born actor Nathan Fillion as your guide."
   },
   {
     "id": 14,
@@ -123,7 +136,8 @@
     "image": "assets/images/6120ea1bdf205417051087.webp",
     "views": 655,
     "likes": 267,
-    "addedAt": "27/06/2020"
+    "addedAt": "27/06/2020",
+    "description": "The Zurich Polybahn is more than a symbol of nostalgia. Every year, the UBS Polybahn transports more than two million people from Zurich Central Square to the ETH Polyterrasse and back again. The funicular railway is part of Zurich’s history. Back when it was in the red and about to be closed down, the former Union Bank of Switzerland – now UBS – acquired and refurbished it."
   },
   {
     "id": 15,
@@ -132,7 +146,8 @@
     "image": "assets/images/6103a72d1bd8d951366083.webp",
     "views": 604,
     "likes": 361,
-    "addedAt": "09/02/2019"
+    "addedAt": "09/02/2019",
+    "description": " Producteur de spectacles vivants depuis plus de 35 ans Plus de trente cinq ans après sa fondation à Strasbourg, la société gérard drouot productions est désormais un pilier de la production de concerts sur le territoire français. Son savoir-faire est reconnu par l'ensemble du métier. Ses artistes appréciés des spectateurs depuis plus de trois décennies. Nous espérons donc que ce site nous permettra de mieux vous renseigner sur notre histoire et nos concerts à venir. Vous pourrez y réserver les meilleures places au meilleur prix sur l'ensemble de notre catalogue."
   },
   {
     "id": 16,
@@ -141,7 +156,8 @@
     "image": "assets/images/60c06d24bfdc9594014057.webp",
     "views": 502,
     "likes": 71,
-    "addedAt": "18/04/2021"
+    "addedAt": "18/04/2021",
+    "description": "This web site introduces various aspects of Shiseido, which aims to Beauty innovations for a better world. Shiseido Company, Limited and Subsidiaries (the “Shiseido Group”) hereby adopt and shall comply with this Shiseido Group Social Media Policy (this “Policy”) concerning the operation of Shiseido Group’s official social media accounts and participation in social media by Shiseido Group employees. This policy consists of two parts: Principles and Guidelines. By disclosing Principles worldwide, we will thoroughly notify all Shiseido Group Employees concerning this Policy."
   },
   {
     "id": 17,
@@ -150,7 +166,8 @@
     "image": "assets/images/60824f7d21757471659698.webp",
     "views": 931,
     "likes": 771,
-    "addedAt": "20/11/2020"
+    "addedAt": "20/11/2020",
+    "description": "Website for new industrial cafe B² (“Bsquared”), Japan’s first integrated bakery and coffee roasting factory. Supports dark mode when viewed on a mobile device at night."
   },
   {
     "id": 18,
@@ -159,7 +176,8 @@
     "image": "assets/images/60867d6738edf835337142.webp",
     "views": 442,
     "likes": 164,
-    "addedAt": "15/08/2021"
+    "addedAt": "15/08/2021",
+    "description": "Music Art Fashion Forward is a video streaming platform showcasing quality content of creatives from around the world."
   },
   {
     "id": 19,
@@ -168,7 +186,8 @@
     "image": "assets/images/6075cc6917ddd901730870.webp",
     "views": 847,
     "likes": 23,
-    "addedAt": "20/09/2021"
+    "addedAt": "20/09/2021",
+    "description": "La Vega Tab, une tablette Microsoft Surface Pro équipée de VEGA : Le logiciel de santé intégrant tous les services SESAM Vitale."
   },
   {
     "id": 20,
@@ -177,7 +196,8 @@
     "image": "assets/images/60754b83c3b96679703102.webp",
     "views": 897,
     "likes": 497,
-    "addedAt": "25/11/2021"
+    "addedAt": "25/11/2021",
+    "description": "When disinformation was rife, when a fingerprint offered access to an unknown world and freedom was lost in translation, welcome to the word of ‘Girmit’ Explore and experience the complex narrative of indentured labour through different lenses on Girmit World."
   },
   {
     "id": 21,
@@ -186,7 +206,8 @@
     "image": "assets/images/606330548dea7187987599.webp",
     "views": 587,
     "likes": 138,
-    "addedAt": "15/02/2021"
+    "addedAt": "15/02/2021",
+    "description": "We are made of legend and forged from steel. Ancient ones regarded women as the Mother or Goddess. These days we prefer the title, CEO. Since history could be carved into stone, women have received a narrative shaped by men. But in recent times our prowess, might, rage, compassion, solutions and leadership are entirely re-shaping male-dominated industries."
   },
   {
     "id": 22,
@@ -195,7 +216,8 @@
     "image": "assets/images/600759f9ededc074184380.webp",
     "views": 506,
     "likes": 63,
-    "addedAt": "08/03/2020"
+    "addedAt": "08/03/2020",
+    "description": "Experts forecast the world after Covid, and share their advice on the wisdom people can use now to make it a better place. World leaders in behavioral & social sciences document their forecasts and advice for the post-pandemic future in a series of interviews."
   },
   {
     "id": 23,
@@ -204,7 +226,8 @@
     "image": "assets/images/600095c354e85763643510.webp",
     "views": 690,
     "likes": 462,
-    "addedAt": "03/09/2019"
+    "addedAt": "03/09/2019",
+    "description": "Campofrío launched one of the most difficult Christmas campaigns to date, as in 2020 people felt like there wasn't much to celebrate. The truth is that even bad years have their little good moments, which is why we created a website celebrating all the great memories we made last year."
   },
   {
     "id": 24,
@@ -213,7 +236,8 @@
     "image": "assets/images/5ff8369ed891c101873881.webp",
     "views": 803,
     "likes": 356,
-    "addedAt": "17/11/2021"
+    "addedAt": "17/11/2021",
+    "description": "1965年6月7日生まれ。英国ブリストル出身のアーティスト。ロンドン大学のゴールドスミス・カレッジ在学中に、生と死をテーマにした動物の死体などを使った作品を展示し注目を浴びる。その後発表した”サメを巨大な水槽でホルマリン漬けにした作品””牛の親子の体を断面化した作品”などが大きなセンセーションを巻き起こし、一躍世界にその名を轟かせる。奇抜な作品とともに挙動や言動も注目の的で、常に世間を騒がせる存在である。21世紀に最も重要とされる世界的アーティストの一人。なお、バンクシーとは同郷であり、コラボレートした作品を発表し、話題を呼んでいる。"
   },
   {
     "id": 25,
@@ -222,7 +246,8 @@
     "image": "assets/images/5fb78e5781a04071773825.webp",
     "views": 475,
     "likes": 93,
-    "addedAt": "21/08/2021"
+    "addedAt": "21/08/2021",
+    "description": "Prioritet Serneke Arena har sju våningar sport, med allt från längdskidåkning till handboll och fotboll. Grundskola och gymnasium med idrottsinriktning på två våningar. Gym, föreningslokaler, skadeklinik, hotell, konferenslokaler, restaurang, bar och caféer. Allt på 45 300 m2."
   },
   {
     "id": 26,
@@ -231,7 +256,8 @@
     "image": "assets/images/5fad73ac96868214176514.webp",
     "views": 370,
     "likes": 112,
-    "addedAt": "14/12/2022"
+    "addedAt": "14/12/2022",
+    "description": "Albert Arenas, leader of the Moto3 championship & Glass by Gaviota presents: Nuevos tiempos, nuevas marcas. Enjoy the best moments of the 2020 season."
   },
   {
     "id": 27,
@@ -240,7 +266,8 @@
     "image": "assets/images/5f9fd77d5b4c8957943592.webp",
     "views": 761,
     "likes": 368,
-    "addedAt": "03/11/2022"
+    "addedAt": "03/11/2022",
+    "description": "The world of Pokémon connects people across the globe, beloved by kids, adults, and every Trainer in between! These incredible creatures have crossed borders and language barriers to reach the hearts of millions for over 25 years, bringing people together through the joy of play and discovery."
   },
   {
     "id": 28,
@@ -249,7 +276,8 @@
     "image": "assets/images/5f9fd79535533469264452.webp",
     "views": 496,
     "likes": 467,
-    "addedAt": "13/01/2022"
+    "addedAt": "13/01/2022",
+    "description": "At Brighton, we believe in easy living. We manage boutique buildings that are close to public transportation and neighborhood retail destinations."
   },
   {
     "id": 29,
@@ -258,7 +286,8 @@
     "image": "assets/images/5f88fec04c81e280922068.webp",
     "views": 618,
     "likes": 53,
-    "addedAt": "13/12/2020"
+    "addedAt": "13/12/2020",
+    "description": "2020 FACTOR Report is a microsite showcasing FACTOR funded artists and their work. The site has been designed with discoverability in mind and uses the YouTube API for video and audio."
   },
   {
     "id": 30,
@@ -267,7 +296,8 @@
     "image": "assets/images/5f6e2ded092fe134322012.webp",
     "views": 617,
     "likes": 377,
-    "addedAt": "04/07/2019"
+    "addedAt": "04/07/2019",
+    "description": "Since 2016, Celje has been the holder of the Slovenia Green Destination sign and ranks among environmentally friendly destinations. Celje follows the key development priority of the Slovenian Tourist Organization (STO) and Slovenian tourism."
   },
   {
     "id": 31,
@@ -276,7 +306,8 @@
     "image": "assets/images/5f6c46a02721f664991648.webp",
     "views": 537,
     "likes": 97,
-    "addedAt": "04/05/2022"
+    "addedAt": "04/05/2022",
+    "description": "Efter mycket arbete med snön är den nu bättre snökvalité med fint och snabbt glid. Då vi är en konstsnöanläggning inomhus kommer det alltid finnas rester av valla/smuts i snön. Det innebär att dina skidor kan ha tex fläckar på skinsen och smuts på glidytorna."
   },
   {
     "id": 32,
@@ -285,7 +316,8 @@
     "image": "assets/images/5f465cdd1e21b579447278.webp",
     "views": 784,
     "likes": 183,
-    "addedAt": "23/06/2019"
+    "addedAt": "23/06/2019",
+    "description": "Mobirise is a free offline app for Windows and Mac to easily create small/medium websites, landing pages, online resumes and portfolios."
   },
   {
     "id": 33,
@@ -294,7 +326,8 @@
     "image": "assets/images/5f18786a40830629931098.webp",
     "views": 302,
     "likes": 279,
-    "addedAt": "10/07/2019"
+    "addedAt": "10/07/2019",
+    "description": "Diego Fernández is a design enthusiast who enjoys everything related to brand, interactive and motion graphics design. He combines his professional activity with teaching at university."
   },
   {
     "id": 34,
@@ -303,7 +336,8 @@
     "image": "assets/images/5f1ef035b1b73681267538.webp",
     "views": 690,
     "likes": 617,
-    "addedAt": "12/04/2022"
+    "addedAt": "12/04/2022",
+    "description": "A content platform for world's biggest independent music label. We connected a custom Spotify player, embedded YouTube, artist/label merch on Shopify and added our smart Liquid Content."
   },
   {
     "id": 35,
@@ -312,7 +346,8 @@
     "image": "assets/images/6406343ba9fd7385148306.webp",
     "views": 480,
     "likes": 261,
-    "addedAt": "19/07/2020"
+    "addedAt": "19/07/2020",
+    "description": "Cuelr is a music discovery service that helps you find the hottest new music from 156 countries. Curated by the world's top DJs and tastemakers, Cuelr distinguishes signal from noise."
   },
   {
     "id": 36,
@@ -321,7 +356,8 @@
     "image": "assets/images/5ef9cf9fcbad7396012126.webp",
     "views": 390,
     "likes": 266,
-    "addedAt": "07/01/2022"
+    "addedAt": "07/01/2022",
+    "description": "Klosed Properties focuses on the acquisition of retail condos, shopping centers, multifamily buildings, and mixed-use buildings."
   },
   {
     "id": 37,
@@ -330,7 +366,8 @@
     "image": "assets/images/5eeb796a7bd38247556131.webp",
     "views": 813,
     "likes": 195,
-    "addedAt": "17/02/2022"
+    "addedAt": "17/02/2022",
+    "description": "Digital anniversary tour of the swiss recycling organisation SENS eRecycling."
   },
   {
     "id": 38,
@@ -339,7 +376,8 @@
     "image": "assets/images/5eb5622dc75c8394491604.webp",
     "views": 609,
     "likes": 493,
-    "addedAt": "19/02/2020"
+    "addedAt": "19/02/2020",
+    "description": "Mobirise is a free offline app for Windows and Mac to easily create small/medium websites, landing pages, online resumes and portfolios."
   },
   {
     "id": 39,
@@ -348,7 +386,8 @@
     "image": "assets/images/5eab1152be99b643720458.webp",
     "views": 331,
     "likes": 94,
-    "addedAt": "11/08/2022"
+    "addedAt": "11/08/2022",
+    "description": "Located in the heart of Fifth Avenue in NYC, 277 Fifth is modern residential tower designed for an international audience by visionary architect Viñoly."
   },
   {
     "id": 40,
@@ -357,7 +396,8 @@
     "image": "assets/images/5e985dbdcdaa2093532119.webp",
     "views": 910,
     "likes": 536,
-    "addedAt": "25/08/2019"
+    "addedAt": "25/08/2019",
+    "description": "We are specialists in creating and building convincing brand strategies. We love to serve all disciplines in digital communication, to create a consistent brand appearance."
   },
   {
     "id": 41,
@@ -366,7 +406,8 @@
     "image": "assets/images/5e396617ab6aa492414424.webp",
     "views": 384,
     "likes": 342,
-    "addedAt": "24/07/2020"
+    "addedAt": "24/07/2020",
+    "description": "Do you want to create your own wedding website for free, don't hesitate to try 8b Website Builder. It will help you build one even if you have no web design experience."
   },
   {
     "id": 42,
@@ -375,7 +416,8 @@
     "image": "assets/images/5e3cf6b45b216113139393.webp",
     "views": 306,
     "likes": 21,
-    "addedAt": "27/06/2022"
+    "addedAt": "27/06/2022",
+    "description": "Meaning 'little oven' in ancient Greek, Klibanos considers itself a small but mighty refinery for top-notch media products and marketing services."
   },
   {
     "id": 43,
@@ -384,7 +426,8 @@
     "image": "assets/images/5e18608368555329525152.webp",
     "views": 350,
     "likes": 5,
-    "addedAt": "05/05/2019"
+    "addedAt": "05/05/2019",
+    "description": "jQuery Image Slideshow with visual effects. Many responsive slider templates and convenient slideshow maker."
   },
   {
     "id": 44,
@@ -393,7 +436,8 @@
     "image": "assets/images/5e14990b44244272732350.webp",
     "views": 991,
     "likes": 555,
-    "addedAt": "09/12/2019"
+    "addedAt": "09/12/2019",
+    "description": "Website of a french advertising agency based in northern france"
   },
   {
     "id": 45,
@@ -402,7 +446,8 @@
     "image": "assets/images/5da96a2e1f6dc984093468.webp",
     "views": 701,
     "likes": 427,
-    "addedAt": "15/12/2021"
+    "addedAt": "15/12/2021",
+    "description": "Since 2003, TopSpot has connected businesses of all sizes to their prospects through highly targeted digital strategies. We understand that your website is often the face of your company and should make you look your best."
   },
   {
     "id": 46,
@@ -411,7 +456,8 @@
     "image": "assets/images/5d9af8c4048b0333234750.webp",
     "views": 701,
     "likes": 673,
-    "addedAt": "23/08/2022"
+    "addedAt": "23/08/2022",
+    "description": "Foster is an Italian company that operates in over 50 countries in home appliance manufacturing. Foster products stand out for quality and design."
   },
   {
     "id": 47,
@@ -420,7 +466,8 @@
     "image": "assets/images/5d84854ed2812404848416.webp",
     "views": 987,
     "likes": 41,
-    "addedAt": "12/01/2020"
+    "addedAt": "12/01/2020",
+    "description": "The new Carlsberg.com offers users searching for beer related questions on Google a better answer by owning the snippet, and then directs them to a world of immersive storytelling."
   },
   {
     "id": 48,
@@ -429,7 +476,8 @@
     "image": "assets/images/5d3f60d915949152993195.webp",
     "views": 685,
     "likes": 556,
-    "addedAt": "18/01/2021"
+    "addedAt": "18/01/2021",
+    "description": "The ultra-summer internet radio station, playing an infinity pool of summer sounds 24/7. Swimwear optional. Formerly Poolside FM."
   },
   {
     "id": 49,
@@ -438,7 +486,8 @@
     "image": "assets/images/5d013489460b8800766077.webp",
     "views": 447,
     "likes": 47,
-    "addedAt": "14/09/2022"
+    "addedAt": "14/09/2022",
+    "description": "AnnenbergClassroom.org strives to help teachers produce engaged and well-informed citizens by providing free classroom resources for teaching the Constitution."
   },
   {
     "id": 50,
@@ -447,7 +496,8 @@
     "image": "assets/images/5cd561eea6526825604452.webp",
     "views": 545,
     "likes": 384,
-    "addedAt": "20/11/2021"
+    "addedAt": "20/11/2021",
+    "description": "Max Korzh concerts mean thousands of people, wild mosh pits, action and youth energy."
   },
   {
     "id": 51,
@@ -456,7 +506,8 @@
     "image": "assets/images/5cde681d6acd8859733370.webp",
     "views": 485,
     "likes": 320,
-    "addedAt": "12/07/2020"
+    "addedAt": "12/07/2020",
+    "description": "An interactive landing page (mini-site) for a special offer by the world's leading luxury travel operator Remote Lands."
   },
   {
     "id": 52,
@@ -465,7 +516,8 @@
     "image": "assets/images/5cdd49aa74ff1701222649.webp",
     "views": 869,
     "likes": 793,
-    "addedAt": "02/09/2019"
+    "addedAt": "02/09/2019",
+    "description": "The very first step to create a brand is meeting and discover our costumer. We can start, then, shaping the concept of his brand’s identity and imagery."
   },
   {
     "id": 53,
@@ -474,7 +526,8 @@
     "image": "assets/images/5cdd4ad025486471143475.webp",
     "views": 994,
     "likes": 138,
-    "addedAt": "01/07/2022"
+    "addedAt": "01/07/2022",
+    "description": "IMPACT is the planning tool for the logistics sector. With IMPACT you can optimally automate your planning and monitor and adjust implementation in real time."
   },
   {
     "id": 54,
@@ -483,7 +536,8 @@
     "image": "assets/images/5cd543cb7fe2a697855557.webp",
     "views": 864,
     "likes": 579,
-    "addedAt": "03/04/2021"
+    "addedAt": "03/04/2021",
+    "description": "Create custom playlists from a circular timeline where concert footage are available on a 100% video website."
   },
   {
     "id": 55,
@@ -492,7 +546,8 @@
     "image": "assets/images/5cb5512c8e216211766645.webp",
     "views": 944,
     "likes": 411,
-    "addedAt": "20/02/2021"
+    "addedAt": "20/02/2021",
+    "description": "We created a brand site for the color contact lenses 'PLAY/UP' that featured BTS as an image character."
   },
   {
     "id": 56,
@@ -501,7 +556,8 @@
     "image": "assets/images/5c6ae24ea98ba232670009.webp",
     "views": 341,
     "likes": 253,
-    "addedAt": "24/01/2020"
+    "addedAt": "24/01/2020",
+    "description": "As colorful as the new SWISS Int. Air Lines livery designed by Fichtre, the website is the core of a campaign based on a short movies series where the audience influences the story."
   },
   {
     "id": 57,
@@ -510,7 +566,8 @@
     "image": "assets/images/5c742d9e4f623307166488.webp",
     "views": 309,
     "likes": 154,
-    "addedAt": "19/10/2020"
+    "addedAt": "19/10/2020",
+    "description": "With playful 3D illustrations and dynamic navigation, the 2018 Rewind site gave users the freedom to explore the year's biggest cultural trends, artists, and creators."
   },
   {
     "id": 58,
@@ -519,7 +576,8 @@
     "image": "assets/images/5c62bef1a9582181947213.webp",
     "views": 305,
     "likes": 121,
-    "addedAt": "22/07/2021"
+    "addedAt": "22/07/2021",
+    "description": "An explicit communication bureau"
   },
   {
     "id": 59,
@@ -528,7 +586,8 @@
     "image": "assets/images/5c6a779bf3432899737894.webp",
     "views": 926,
     "likes": 556,
-    "addedAt": "04/09/2019"
+    "addedAt": "04/09/2019",
+    "description": "Coda Story puts a team of journalists on one crisis at a time and stays with it, providing unique depth, continuity and understanding to events that shape our world."
   },
   {
     "id": 60,
@@ -537,7 +596,8 @@
     "image": "assets/images/5c3f2aa9c7f4e.webp",
     "views": 329,
     "likes": 188,
-    "addedAt": "06/01/2021"
+    "addedAt": "06/01/2021",
+    "description": "Promoting our people and the work we do through a human-centered design approach, contemporary design and exceptional experience to deliver the future of work."
   },
   {
     "id": 61,
@@ -546,7 +606,8 @@
     "image": "assets/images/5c0e53953ae21.webp",
     "views": 573,
     "likes": 372,
-    "addedAt": "28/07/2019"
+    "addedAt": "28/07/2019",
+    "description": "Jewlia is an esthetic experience of online jewelry shopping using magnificent photos and paying attention to typography and details."
   },
   {
     "id": 62,
@@ -555,7 +616,8 @@
     "image": "assets/images/5c08cd4ee22d7.webp",
     "views": 833,
     "likes": 334,
-    "addedAt": "26/04/2021"
+    "addedAt": "26/04/2021",
+    "description": "Website for a real estate company in Sweden."
   },
   {
     "id": 63,
@@ -564,7 +626,8 @@
     "image": "assets/images/5bf34b615cac5.webp",
     "views": 482,
     "likes": 59,
-    "addedAt": "12/07/2021"
+    "addedAt": "12/07/2021",
+    "description": "Australia's Leading Provider of Self-Esteem and Confidence Education for Pre-teen Girls, Teen Girls and Teen Boys."
   },
   {
     "id": 64,
@@ -573,7 +636,8 @@
     "image": "assets/images/5bf2d41c54051.webp",
     "views": 875,
     "likes": 722,
-    "addedAt": "31/10/2020"
+    "addedAt": "31/10/2020",
+    "description": "Maria Pronenko is the entrepreneur & the author of the YouTube channel."
   },
   {
     "id": 65,
@@ -582,7 +646,8 @@
     "image": "assets/images/5bd9f48205e7d.webp",
     "views": 404,
     "likes": 300,
-    "addedAt": "24/07/2021"
+    "addedAt": "24/07/2021",
+    "description": "This site showcases dynamic content from GYROTONIC® for both consumers and instructors—providing a hub for users to receive training and info about the Gyrotonic & Gyrokinesis Methods."
   },
   {
     "id": 66,
@@ -600,6 +665,7 @@
     "image": "assets/images/5bc85142a09f0.webp",
     "views": 483,
     "likes": 264,
-    "addedAt": "12/02/2019"
+    "addedAt": "12/02/2019",
+    "description": "To celebrate the launch of Luca Guadagnino’s audacious homage to the 1977 Argento horror classic Suspiria, we created an elegantly designed, immersive website."
   }
 ]
