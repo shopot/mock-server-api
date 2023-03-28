@@ -1,0 +1,14 @@
+{
+  "name": "mock-server-api",
+  "version": "1.0.0",
+  "description": "Mock server API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "shopot",
+  "license": "MIT",
+  "devDependencies": {
+    "json-server": "^0.17.3"
+  }
+}
