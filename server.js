@@ -16,7 +16,7 @@ server.use(jsonServer.defaults());
 server.use(
   // Add custom route here if needed
   jsonServer.rewriter({
-    "/*": "/$1",
+    '/api/*': '/$1',
   })
 );
 
