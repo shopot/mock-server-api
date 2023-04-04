@@ -30,5 +30,5 @@ JSON Server API for Rolling Scopes School task "React.API".
 - Change or use the default [`assets/images`](./public/assets/images/) in the repository
 - Sign Up or login into [Vercel](https://vercel.com)
 - From the Vercel dashboard, click "**+ New Project**" then "**Import**" your repository
-- In the "**Configure Project**" screen, leave everything default and click "**Deploy**"
+- In the "**Configure Project**" screen, leave everything default, add `npm install` and click "**Deploy**"
 - Wait until deployment is done, and your own JSON server is ready to serve!
